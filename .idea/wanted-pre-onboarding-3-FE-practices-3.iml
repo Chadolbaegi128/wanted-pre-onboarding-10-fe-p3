@@ -5,13 +5,9 @@
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
-<<<<<<< HEAD
-    </content>
-=======
       <excludeFolder url="file://$MODULE_DIR$/client/node_modules" />
     </content>
     <content url="file://$MODULE_DIR$/client/node_modules" />
->>>>>>> 7496323f9f4702321e3d2b0ec9980d9ff49d153f
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
