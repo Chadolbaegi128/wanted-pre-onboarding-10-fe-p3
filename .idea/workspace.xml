@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="861c6175-e18f-4c92-9ec1-28f44a01d6f8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/pages/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/Login.tsx" afterDir="false" />
     </list>
+=======
+    <list default="true" id="9bbf7aa9-a8bd-410d-8bee-13f87d409fed" name="Changes" comment="" />
+>>>>>>> 8d07c0494dc7e09cff3c33597729687db31616cb
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -74,19 +79,19 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.selected.package.tslint": "(autodetect)",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external"
+  }
+}]]></component>
+>>>>>>> 8d07c0494dc7e09cff3c33597729687db31616cb
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="42a45757-e265-4400-b733-d2eb7455c3b6" name="Changes" comment="" />
-      <created>1678454580388</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1678454580388</updated>
-      <workItem from="1678454581575" duration="9251000" />
-      <workItem from="1678494861409" duration="4626000" />
-      <workItem from="1678596382760" duration="6850000" />
-    </task>
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
@@ -104,4 +109,6 @@
       </map>
     </option>
   </component>
+=======
+>>>>>>> 8d07c0494dc7e09cff3c33597729687db31616cb
 </project>
