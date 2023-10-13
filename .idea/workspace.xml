@@ -4,9 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="861c6175-e18f-4c92-9ec1-28f44a01d6f8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/pages/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/Login.tsx" afterDir="false" />
+=======
+<<<<<<< Updated upstream
+    <list default="true" id="42a45757-e265-4400-b733-d2eb7455c3b6" name="Changes" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/client/src/pages/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/Login.tsx" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/router.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/router.jsx" afterDir="false" />
+>>>>>>> Practice 3
+=======
+    <list default="true" id="861c6175-e18f-4c92-9ec1-28f44a01d6f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/client/src/api/login.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/api/login.ts" afterDir="false" />
+>>>>>>> Stashed changes
+>>>>>>> 7496323f9f4702321e3d2b0ec9980d9ff49d153f
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +32,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 7496323f9f4702321e3d2b0ec9980d9ff49d153f
   <component name="GitToolBoxStore">
     <option name="recentBranches">
       <RecentBranches>
@@ -25,12 +46,21 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+<<<<<<< HEAD
                     <option name="branchName" value="master" />
                     <option name="lastUsedInstant" value="1696947597" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="answer" />
                     <option name="lastUsedInstant" value="1696947314" />
+=======
+                    <option name="branchName" value="javascript" />
+                    <option name="lastUsedInstant" value="1678617045" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1678617044" />
+>>>>>>> 7496323f9f4702321e3d2b0ec9980d9ff49d153f
                   </RecentBranch>
                 </list>
               </option>
@@ -41,6 +71,10 @@
       </RecentBranches>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+>>>>>>> Practice 3
+>>>>>>> 7496323f9f4702321e3d2b0ec9980d9ff49d153f
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -83,7 +117,15 @@
       <updated>1678454580388</updated>
       <workItem from="1678454581575" duration="9251000" />
       <workItem from="1678494861409" duration="4626000" />
+<<<<<<< HEAD
       <workItem from="1678596382760" duration="6850000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1678596382760" duration="6850000" />
+=======
+      <workItem from="1678596382760" duration="7528000" />
+>>>>>>> Practice 3
+>>>>>>> 7496323f9f4702321e3d2b0ec9980d9ff49d153f
     </task>
     <servers />
   </component>
@@ -93,6 +135,7 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -104,4 +147,6 @@
       </map>
     </option>
   </component>
+=======
+>>>>>>> 7496323f9f4702321e3d2b0ec9980d9ff49d153f
 </project>
